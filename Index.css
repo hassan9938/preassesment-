@@ -1,0 +1,77 @@
+
+body{
+
+
+    background-color: gray;
+    margin: 0px;
+
+}
+
+
+#content{
+    width: 80%;
+    height: auto;
+    position: center;
+    padding-bottom: 50px;
+    margin-left: 130px;
+    margin-top: 0px;
+
+
+}
+
+#header{
+
+background-color: black;
+color: white;
+width: 65%;
+margin: 19%;
+    text-align: center;
+    font-family: serif;
+    font-size: medium;
+    border-radius: 10px;
+    border-color: white;
+    border-style: dotted;
+
+}
+
+#search-bar input{
+
+    box-sizing: border-box;
+
+
+}
+
+#mySearch{
+
+    width: 70%;
+    box-sizing: border-box;
+    height: 40px;
+}
+#btn-submit{
+
+    width: 10%;
+    box-sizing: border-box;
+    height: 40px;
+}
+#btn-rem-all{
+
+    width: 20%;
+    box-sizing: border-box;
+    height: 40px;
+    margin-bottom: 10px;
+}
+
+#searchResult{
+    box-sizing: border-box;
+    width: 65%;
+    margin: 19%;
+     padding-bottom: 100px;
+}
+tr{
+
+    background-color: aqua;
+    border-bottom: black;
+    border-bottom-style: dotted;
+    width: 65%;
+    box-sizing: border-box;
+}
